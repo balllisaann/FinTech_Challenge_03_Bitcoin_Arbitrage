@@ -1,5 +1,6 @@
 # UW FinTech Challenge 3: Crypto Arbitrage
-Author: Lisa Bailey, balllisaann@yahoo.com
+
+Author: Lisa Bailey (balllisaann@yahoo.com)
 Date: 9/5/2021
 Contributing Authors: UW FinTech 21
 Libraries used: 
