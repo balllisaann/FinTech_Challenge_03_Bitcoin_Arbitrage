@@ -38,7 +38,7 @@ def arbitrage_spread(date) :
 
 ```
 def spread_return(arbitrage_spread_period, date):
-    return arbitrage_spread_period[arbitrage_spread_period > 0] / **coinbase['Close'].loc[date]**
+    return arbitrage_spread_period[arbitrage_spread_period > 0] / coinbase['Close'].loc[date]
 
 profitable_trades_early = spread_return_early[spread_return_early > .01]
 ```
